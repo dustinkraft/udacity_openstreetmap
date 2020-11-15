@@ -1,0 +1,5 @@
+MAP AREA:
+
+The map area consists of the Houston area suburbs of Richmond, Rosenberg and Sugar Land, TX. This is the area where I currently live, so I am familiar with the data being examined.
+
+https://www.openstreetmap.org/export#map=13/29.5959/-95.7038
